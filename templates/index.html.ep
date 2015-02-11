@@ -1,0 +1,4 @@
+% layout 'default';
+% title 'Welcome';
+Mojo testing<br><br>
+<a href='/camera'>Camera</a>

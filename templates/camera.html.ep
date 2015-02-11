@@ -1,0 +1,6 @@
+% layout 'default';
+% title 'Welcome';
+Sample photo
+<a href='/camera/take'>Take</a> photo
+<img src='/images/photo.jpg?3232'>
+<br>
